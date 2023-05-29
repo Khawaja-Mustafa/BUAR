@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{FEA6A0E6-9025-4DB9-A412-1C63B2E7E2FA}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="htmlagilitypack" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.htmlagilitypack PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
