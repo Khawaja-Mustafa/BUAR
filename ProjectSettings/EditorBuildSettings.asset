@@ -18,7 +18,7 @@ EditorBuildSettings:
     path: Assets/Scenes/LoginScenes/VisitorLogin.unity
     guid: ba6ad3646cff54249a32ae8f7747e6fd
   - enabled: 1
-    path: Assets/Scenes/ApplicationScenes/FACULTY Info.unity
+    path: Assets/Scenes/ApplicationScenes/FACULTY OLDSCRAPPER.unity
     guid: a1a564b0c7d964f03894318cb439f55e
   - enabled: 1
     path: Assets/Scenes/ApplicationFirstPage.unity

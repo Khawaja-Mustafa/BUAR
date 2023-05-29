@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/ApplicationScenes/FACULTY Info NEW.unity
+- path: Assets/Scenes/LoginScenes/StudentLogin 1.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
